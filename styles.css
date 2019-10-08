@@ -1,0 +1,27 @@
+ .name {
+      background-color: black;
+      color:orange;
+      margin: auto;	
+    }
+    
+    .background{
+        background-color: lightblue;
+        width: 60%;
+	line-height: 1.5;
+        
+	margin: auto;
+    }   
+     
+    .img {
+       	height: 350px;
+ 	width: 250px;	
+    
+    }
+
+    .work {    
+	line-height: 1.5;
+	font-style: italic;
+	font-size: 15px;
+	font-weight: bold;
+	color: green;
+     }
